@@ -2,7 +2,7 @@ import React from "react";
 
 export const Alerta = ({children}) => {
   return (
-    <div className="text-center my-4 bg-red-500 text-white font-bold p-3 uppercase">
+    <div className="bg-red-100 border border-red-400 text-center text-red-700 px-2 py-1 rounded relative" role="alert">
       {children}
     </div>
   );

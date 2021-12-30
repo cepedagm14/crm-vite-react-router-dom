@@ -1,8 +1,61 @@
 {
   "clientes": [
+    
     {
-      "id": 1,
-      "nombre": "juan"
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 2
+    },
+    {
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 3
+    },
+    {
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 4
+    },
+    {
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 5
+    },
+    {
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 6
+    },
+    {
+      "nombre": "codigo",
+      "empresa": "codigo@codigo.com",
+      "email": "codigo@codigo.com",
+      "telefono": "55114455",
+      "notas": "codigo@codigo.com",
+      "id": 7
+    },
+    {
+      "nombre": "juan",
+      "empresa": "dos",
+      "email": "navigate@navigate.com",
+      "telefono": "5544778877",
+      "notas": "navigate@navigate.co",
+      "id": 8
     }
   ]
 }
