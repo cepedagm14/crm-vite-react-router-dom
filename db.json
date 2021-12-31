@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Sandra Flores",
-      "empresa": "NBS",
-      "email": "sandra@nbs.com",
-      "telefono": "556699887744",
-      "notas": "Dueña de NBS ",
-      "id": 1
-    },
-    {
       "nombre": "Maykel Cepeda",
       "empresa": "Tux Computer",
       "email": "tux@tux.com",
@@ -17,12 +9,20 @@
       "id": 2
     },
     {
-      "nombre": "Pedro Fernandez",
-      "empresa": "Ferca",
-      "email": "ferca@ferca.com",
-      "telefono": "4477558899",
-      "notas": "",
-      "id": 3
+      "nombre": "Sandra Flores",
+      "empresa": "NBS",
+      "email": "sandra@nbs.com",
+      "telefono": "556699887744",
+      "notas": "Dueña de NBS ",
+      "id": 4
+    },
+    {
+      "nombre": "Peter Pan",
+      "empresa": "Nunca jamas",
+      "email": "peter@pan.com",
+      "telefono": "445566221133",
+      "notas": "enemigo de garfield",
+      "id": 5
     }
   ]
 }
